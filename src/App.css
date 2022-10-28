@@ -1,0 +1,48 @@
+.container {
+  border: 1px solid #E9EDEE;
+  border-radius: 5px;
+  height: 400px;
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 35%;
+}
+
+.conventer-name {
+  text-align: center;
+}
+
+.conventer-tabl {
+  display: flex;
+  justify-content: space-around;
+}
+
+.conventer-item-value-one, .conventer-item-value-two {
+  color: black;
+  font-size: 50px;
+}
+
+.conventer-block {
+  border-radius: 5px;
+  border: 1px solid #E9EDEE;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.conventer-inputs {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5px;
+}
+
+.conventer-selects {
+  display: flex;
+  justify-content: space-around;  
+  margin-top: 50px; 
+}
+
+.form-control {
+  border: 1px solid #D6DADC;
+  border-radius: 5px;
+  padding: 5px;
+}
+
